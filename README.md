@@ -4,7 +4,7 @@ Mousekey is an application which allows controlling of the mouse pointer using t
 # Installation and Use
 - First download the zip archive.
 - Now extract the .zip file.
-- Now open the terminal and cd to the extracted folder.
+- Now open the extracted folder in the terminal.
 - Now run the following command:
   ```
   pip3 install .
